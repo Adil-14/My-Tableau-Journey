@@ -2,7 +2,7 @@
 
 Welcome to my Tableau Learning Journey! This repository showcases my progress and practice as I learn and refine my Tableau skills. It includes multiple sheets and visualizations that demonstrate my ability to work with different datasets, experiment with chart types, and apply Tableau features like filters, parameters, and calculated fields.
 
- [View My Tableau Public Dashboard](https://public.tableau.com/shared/CP34TNXZX?:display_count=n&:origin=viz_share_link)
+[View My Tableau Public Profile](https://public.tableau.com/app/profile/adil.khan2199/vizzes)
 
 ---
 
