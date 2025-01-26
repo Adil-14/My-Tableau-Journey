@@ -17,8 +17,8 @@ Welcome to my Tableau Learning Journey! This repository showcases my progress an
 
 As part of my data visualization and storytelling journey, I’ve worked on the following projects as well:
 
-1. **[Global Corruption Dashboard](https://github.com/AdilKhan/Global-Corruption-Dashboard)**  
+1. **[Global Corruption Dashboard](https://github.com/Adil-14/Global-Corruption-Dashboard)**  
    An interactive Tableau dashboard analyzing global corruption trends using datasets on bribery rates, political trust, and corruption perception indices.
 
-2. **[Sports Series Repository](https://github.com/AdilKhan/Sports-Series-Repository)**  
+2. **[Sports Series Repository](https://github.com/Adil-14/Sport-Series)**  
    A project combining Tableau and data analysis to explore trends and patterns in sports datasets.
